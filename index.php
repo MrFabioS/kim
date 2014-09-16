@@ -1,5 +1,5 @@
 <?php
-// TESTE DE ALTERAÇÃO
+// TESTE DE ALTERAÇÃO 002
 session_start();
 function debug($arr){
 	echo '<pre>';
